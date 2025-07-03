@@ -6,3 +6,4 @@ click new script, then import from url and put this
 ```console
 https://cdn.jsdelivr.net/gh/gustambolopez/Anti-Dev-tools-bypass@main/extension.js
 ```
+Happy debugging! (holly cornball)
