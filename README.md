@@ -4,5 +4,5 @@ so, basically this is a anti anti debugger and bypass for anti dev tools npm pac
 in your favorite script manager (in my case violent monkey)
 click new script, then import from url and put this 
 ```console
-https://cdn.jsdelivr.net/gh/gustambolopez/Anti-Dev-tools-bypass@main/ext.js
+https://cdn.jsdelivr.net/gh/gustambolopez/Anti-Dev-tools-bypass@main/extension.js
 ```
